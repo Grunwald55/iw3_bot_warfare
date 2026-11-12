@@ -18,6 +18,7 @@ Make sure to disable this DVAR by adding `set bots_main_firstIsHost 0` in your s
 - [Features](#Features)
 - [Installation](#Installation)
 - [Documentation](#Documentation)
+- [Repository review and file inventory](docs/repository-review.md)
 - [Changelog](#Changelog)
 - [Credits](#Credits)
 
